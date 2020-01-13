@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = %q{bert}
-  s.version = "1.1.6"
+  s.version = "2.0.0"
 
   s.required_rubygems_version = "~> 3.0"
   s.required_ruby_version = ">= 2.4"
