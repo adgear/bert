@@ -63,10 +63,10 @@ PLATFORMS
 
 DEPENDENCIES
   bert!
-  jeweler
-  rake
-  test-unit
-  thoughtbot-shoulda
+  jeweler!
+  rake!
+  test-unit!
+  thoughtbot-shoulda!
 
 BUNDLED WITH
-   2.0.1
+   2.1.4
