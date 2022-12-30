@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    bert (1.1.6)
+    bert (2.0.0)
 
 GEM
   remote: https://rubygems.org/
@@ -17,9 +17,9 @@ PLATFORMS
 
 DEPENDENCIES
   bert!
-  rake!
-  test-unit!
-  thoughtbot-shoulda!
+  rake
+  test-unit
+  thoughtbot-shoulda
 
 BUNDLED WITH
-   2.1.4
+   2.2.27
