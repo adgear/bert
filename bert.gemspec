@@ -52,6 +52,7 @@ Gem::Specification.new do |s|
   ]
 
   s.specification_version = 3
+  s.add_development_dependency 'rubocop', '~> 1.41.1'
   s.add_development_dependency(%q<thoughtbot-shoulda>, [">= 0"])
   s.add_development_dependency(%q<rake>, [">= 0"])
   s.add_development_dependency(%q<test-unit>, [">= 0"])
